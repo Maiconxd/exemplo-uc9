@@ -1,0 +1,15 @@
+C:\Users\iqmai\Desktop\exemplo-uc9\bin\Debug\net6.0\exemplo-uc9.exe
+C:\Users\iqmai\Desktop\exemplo-uc9\bin\Debug\net6.0\exemplo-uc9.deps.json
+C:\Users\iqmai\Desktop\exemplo-uc9\bin\Debug\net6.0\exemplo-uc9.runtimeconfig.json
+C:\Users\iqmai\Desktop\exemplo-uc9\bin\Debug\net6.0\exemplo-uc9.dll
+C:\Users\iqmai\Desktop\exemplo-uc9\bin\Debug\net6.0\exemplo-uc9.pdb
+C:\Users\iqmai\Desktop\exemplo-uc9\obj\Debug\net6.0\exemplo-uc9.csproj.AssemblyReference.cache
+C:\Users\iqmai\Desktop\exemplo-uc9\obj\Debug\net6.0\exemplo-uc9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iqmai\Desktop\exemplo-uc9\obj\Debug\net6.0\exemplo-uc9.AssemblyInfoInputs.cache
+C:\Users\iqmai\Desktop\exemplo-uc9\obj\Debug\net6.0\exemplo-uc9.AssemblyInfo.cs
+C:\Users\iqmai\Desktop\exemplo-uc9\obj\Debug\net6.0\exemplo-uc9.csproj.CoreCompileInputs.cache
+C:\Users\iqmai\Desktop\exemplo-uc9\obj\Debug\net6.0\exemplo-uc9.dll
+C:\Users\iqmai\Desktop\exemplo-uc9\obj\Debug\net6.0\refint\exemplo-uc9.dll
+C:\Users\iqmai\Desktop\exemplo-uc9\obj\Debug\net6.0\exemplo-uc9.pdb
+C:\Users\iqmai\Desktop\exemplo-uc9\obj\Debug\net6.0\exemplo-uc9.genruntimeconfig.cache
+C:\Users\iqmai\Desktop\exemplo-uc9\obj\Debug\net6.0\ref\exemplo-uc9.dll
